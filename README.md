@@ -1,6 +1,8 @@
 ![Header](https://raw.githubusercontent.com/umeshlab/umeshlab/main/umi.png "Header")
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Umesh Adabala and I'm a software developer. I'm from India, living in Bangalore 
+My name is Umesh Adabala and I'm a software developer and writing some blogs to dev.to("https://dev.to/umeshlab/")
+<br>
+I'm from India, living in Bangalore 
 <br>
 An 14 years Indian python devloper. Who wants to serve many projects to this community.
 ## 🔧 Technologies & Tools
