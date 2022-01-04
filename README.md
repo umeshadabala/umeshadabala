@@ -2,9 +2,9 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Umesh Adabala and I'm a software developer and writing some blogs to dev.to(https://dev.to/umeshlab/)
 <br>
-I'm from India, living in Bangalore 
+A 14 year Indian python devloper. Who wants to serve many projects to this community.
 <br>
-An 14 years Indian python devloper. Who wants to serve many projects to this community.
+I'm from India, living in Bangalore 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
