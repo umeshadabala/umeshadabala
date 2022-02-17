@@ -11,8 +11,7 @@ I'm from India, living in Bangalore
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-csharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-visualstudio-informational?style=flat&logo=visualstudio&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/GameEngine-godot-informational?style=flat&logo=godot&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/umeshlab/umeshlab">
