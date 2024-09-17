@@ -24,6 +24,6 @@ I'm from India, living in Bangalore
 </a>
 
 
-<a href="https://github.com/umeshadabala/pyapp">
+<a href="https://github.com/umeshadabala/X_11-apps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=umeshadabala&repo=pyapp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
