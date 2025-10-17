@@ -1,29 +1,43 @@
 ![Header](https://raw.githubusercontent.com/umeshlab/umeshlab/main/umi.png "Header")
+
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Umesh Adabala and I'm a software developer and writing some blogs to dev.to(https://dev.to/umeshlab/)
-<br>
-A 17 year Indian python devloper. Who wants to serve many projects to this community.
-<br>
-I'm from India, living in Bangalore 
+
+I'm **Umesh Adabala** — a passionate student and Python developer from Bangalore, India 🇮🇳.
+
+- 🎓 Student & Python Enthusiast
+- 🏆 **IBR Achiever** for [BhashaBytes](https://github.com/BhashaBytes/)
+- 💻 Building cool projects and contributing to the open-source community
+- 📝 Writing blogs at [dev.to/umeshlab](https://dev.to/umeshlab/)
+- 🌐 [My Website](https://umeshadabala.github.io/)
+
 ## 🔧 Technologies & Tools
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/umeshadabala/umeshadabala">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umeshadabala&hide=javascript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/umeshadabala/umeshadabala">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=umeshadabala&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt=" GitHub Stats" />
-</a>
+## 🚀 Featured Projects
 
-<a href="https://github.com/umeshadabala/speedtest_GUI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=umeshadabala&repo=speedtest_GUI&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+- 🥇 **IBR Achiever Project:** [BhashaBytes](https://github.com/BhashaBytes/)
+- ⚡ [speedtest_GUI](https://github.com/umeshadabala/speedtest_GUI)
+- 🖥️ [X_11-apps](https://github.com/umeshadabala/X_11-apps)
 
 
-<a href="https://github.com/umeshadabala/X_11-apps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=umeshadabala&repo=X_11-apps&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+## 🎧 Hobbies & Fun
+
+- Listening to music 🎵
+- Coding cool stuff 💻
+- Eating delicious food 🍔
+
+## 🌐 Connect with Me
+
+- [Website](https://umeshadabala.github.io/)
+- [Twitter](https://twitter.com/umeshadabala) (linked in my GitHub profile)
+- [Dev.to](https://dev.to/umeshlab)
+
+---
+
+_“A 17-year-old Indian Python developer who wants to serve many projects to this community.”_
+
+Feel free to reach out, collaborate, or just say hi! 😄
