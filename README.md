@@ -17,12 +17,12 @@ I'm **Umesh Adabala** — a passionate student and Python developer from Bangalo
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
-## 🚀 Featured Projects
+## 🚀 Featured Achievements
 
-- 🥇 **IBR Achiever Project:** [BhashaBytes](https://github.com/BhashaBytes/)
-- ⚡ [speedtest_GUI](https://github.com/umeshadabala/speedtest_GUI)
-- 🖥️ [X_11-apps](https://github.com/umeshadabala/X_11-apps)
-
+- 🥇 **DFR Research Project:** [Digital Fusion Root (DFR)](https://github.com/umeshadabala/Digital_Fusion_Root-DFR-) — Cutting-edge research, open-source innovation, and impactful code!
+- 🏆 **IBR Achiever Project:** [BhashaBytes](https://github.com/BhashaBytes/) — Award-winning work, recognized by IBR!
+- 🖥️ [X_11-apps](https://github.com/umeshadabala/X_11-apps) — Explore creative experiments and apps.
+- ✍️ [BhashaBytes Blog](https://dev.to/umeshlab) — Sharing tech insights and stories.
 
 ## 🎧 Hobbies & Fun
 
@@ -33,7 +33,7 @@ I'm **Umesh Adabala** — a passionate student and Python developer from Bangalo
 ## 🌐 Connect with Me
 
 - [Website](https://umeshadabala.github.io/)
-- [Twitter](https://twitter.com/umeshadabala) (linked in my GitHub profile)
+- [Twitter](https://twitter.com/umeshadabala) 
 - [Dev.to](https://dev.to/umeshlab)
 
 ---
