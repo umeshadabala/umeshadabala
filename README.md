@@ -22,7 +22,6 @@ I'm **Umesh Adabala** — a passionate student and Python developer from Bangalo
 - 🥇 **DFR Research Project:** [Digital Fusion Root (DFR)](https://github.com/umeshadabala/Digital_Fusion_Root-DFR-) — Cutting-edge research, open-source innovation, and impactful code!
 - 🏆 **IBR Achiever Project:** [BhashaBytes](https://github.com/BhashaBytes/) — Award-winning work, recognized by IBR!
 - 🖥️ [X_11-apps](https://github.com/umeshadabala/X_11-apps) — Explore creative experiments and apps.
-- ✍️ [BhashaBytes Blog](https://dev.to/umeshlab) — Sharing tech insights and stories.
 
 ## 🎧 Hobbies & Fun
 
