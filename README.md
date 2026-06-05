@@ -31,11 +31,11 @@ I'm **Umesh Adabala** — a passionate student and Python developer from Bangalo
 ## 🌐 Connect with Me
 
 - [Website](https://umeshadabala.github.io/)
-- [Twitter](https://twitter.com/umeshadabala) 
+- [Twitter](https://twitter.com/Um35hAdaba1a) 
 - [Dev.to](https://dev.to/umeshlab)
 
 ---
 
-_“A 17-year-old Indian Python developer who wants to serve many projects to this community.”_
+_“A 18-year-old Indian Python developer who wants to serve many projects to this community.”_
 
 Feel free to reach out, collaborate, or just say hi! 😄
