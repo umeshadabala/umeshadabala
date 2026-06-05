@@ -17,8 +17,6 @@ I'm **Umesh Adabala** — a passionate student and developer from Bangalore, Ind
 ### Languages & Frameworks
 ![](https://img.shields.io/badge/Code-Python-3776ab?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Code-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/Code-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Code-HTML5-E34C26?style=flat&logo=html5&logoColor=white)
 
 ### Tools & Platforms
