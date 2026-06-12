@@ -1,4 +1,4 @@
-# Hi there! I'm Umesh Adabala ğŸ‘‹ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+# Hi there! I'm Umesh Adabala <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=22d3ee&width=450&height=50&lines=Founder+%26+Full-Stack+Developer;India+Book+of+Records+Achiever;Building+Cool+Civic+%26+Urban+Tech;Open+Source+Enthusiast" alt="Typing SVG" />
@@ -66,9 +66,6 @@ I am a teenage founder, developer, and builder based in Bangalore, India ğŸ‡®ğŸ‡
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -109,7 +106,7 @@ I am a teenage founder, developer, and builder based in Bangalore, India ğŸ‡®ğŸ‡
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=umeshadabala&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umeshadabala&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umeshadabala&layout=compact&theme=tokyonight&hide=c,c%2B%2B,c%23" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
@@ -117,6 +114,7 @@ I am a teenage founder, developer, and builder based in Bangalore, India ğŸ‡®ğŸ‡
 </p>
 
 ---
+
 
 ### ğŸŒ Let's Connect
 
